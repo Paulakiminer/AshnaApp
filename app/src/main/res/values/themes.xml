@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.NutritionTracker" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.NutritionTracker.Splash" parent="Theme.NutritionTracker">
+        <item name="android:windowBackground">@color/ic_launcher_background</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
